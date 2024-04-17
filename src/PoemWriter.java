@@ -11,16 +11,16 @@ public class PoemWriter {
     public static void main(String[] args) {
         // Create three Poem objects
         Poem poem1 = new Poem();
-        poem1.setName("The Raven");
-        poem1.setPoet("Edgar Allan Poe");
+        poem1.setName("One Art");
+        poem1.setPoet("Elizabeth Bishop");
 
         Poem poem2 = new Poem();
         poem2.setName("Ozymandias");
         poem2.setPoet("Percy Bysshe Shelley");
 
         Poem poem3 = new Poem();
-        poem3.setName("The Road Not Taken");
-        poem3.setPoet("Robert Frost");
+        poem3.setName("Harlem");
+        poem3.setPoet("Langston Hughes");
 
 
         System.out.println("Poem 1:");
