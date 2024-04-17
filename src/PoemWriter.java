@@ -1,3 +1,12 @@
+/**Class: PoemWriter
+ * @author Tyler Robinson
+ * @version 1.3
+ * Course: ITEC 2140 Spring 2023
+ * Written: April 17, 2024
+ */
+
+
+
 public class PoemWriter {
     public static void main(String[] args) {
         // Create three Poem objects
@@ -13,7 +22,7 @@ public class PoemWriter {
         poem3.setName("The Road Not Taken");
         poem3.setPoet("Robert Frost");
 
-        // Print poem information to console
+
         System.out.println("Poem 1:");
         System.out.println("Name: " + poem1.getName());
         System.out.println("Poet: " + poem1.getPoet());

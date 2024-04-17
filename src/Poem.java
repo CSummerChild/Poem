@@ -1,3 +1,12 @@
+/**Class: Poem
+ * @author Tyler Robinson
+ * @version 1.0
+ * Course: ITEC 2140 Spring 2023
+ * Written: April 17, 2024
+ */
+
+
+
 class Poem {
     private String name;
     private String poet;
